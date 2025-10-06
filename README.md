@@ -36,6 +36,4 @@ The app returns the probability of ICU transfer (0–100%) for each patient base
 
 How to Run Locally
 
-🚀 How to Run Locally
-
-Clone this repository:
+Clone this repository:](https://pneumonia-icu-predict.streamlit.app/)
